@@ -1,0 +1,21 @@
+Circuit: * Z:\home\wrath\Desktop\SDG Assignment\q#2\q2.asc
+
+.OP point found by inspection.
+
+Date: Mon Sep 11 11:15:00 2017
+Total elapsed time: 0.039 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3312
+traniter = 3312
+tranpoints = 1657
+accept = 1408
+rejected = 249
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 175 bytes object code size  0.1/0.1/[0.1]
+
